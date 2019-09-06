@@ -1,0 +1,117 @@
+body
+{	margin-top: 0px;
+	color: black;
+	background-color:white;
+	background-repeat: none;
+	font: 24px futura bk bt;
+}
+a
+{
+	text-decoration: none;
+	color:black;
+}
+a:hover
+{
+font-size: 44px;
+color:red;
+}
+.hlinks
+{
+text-align: right;
+
+}
+.f1
+{
+	flaot:left;
+	width:33.3%;
+}
+.f2
+{
+	flaot:left;
+	width:33.3%;
+}
+.f3
+{
+	flaot:left;
+	width:33.3%;	
+}
+.head
+{
+	font-size: 40px;
+	word-spacing: 10px;
+	margin: 0%;
+	color:white;
+	height:110px;
+	width:0 auto;
+	background-image: url('h.jpg') ;
+	text-align:left;
+	text-decoration:none;
+	padding-top: 0px;
+
+}
+
+.ig
+{	
+bottom:5px;
+left: 700px;
+	width:65px;
+	height: 65px;
+		border-style: none;
+	background-image: url('ig.jpg');
+	position:fixed;
+}
+.fb
+{
+	width:65px;
+	height: 65px;
+	border-style: none;
+	background-image: url('fb.jpg');
+	bottom:5px;
+	left: 620px;
+	box-sizing: border-box;
+	position: fixed;
+}
+.calls
+{
+	width:63px;
+	right: 5px;
+	top:250px;
+	height: 63px;
+	border-style: none;
+	background-image: url('call.jpg');
+	box-sizing: border-box;
+	position: fixed;
+}
+.meds
+{
+	width:63px;
+	right: 5px;
+	height: 63px;
+	border-style: none;
+	background-image: url('cart.jpg');
+	position: fixed;
+}
+.appoin
+{
+	background-color: black;
+ 	width: auto;
+ 	color:white;
+	left: 5px;
+	height: 63px;
+	border-style: none;
+	border-radius: 20px;
+	position: fixed;
+}
+.appoin:hover
+{
+	color: cyan;
+	font-size: 14px;
+}
+.mainFlex
+{
+	float:left;
+	border:1px solid black;
+	box-sizing: border-box;
+	width: 33.3%; 
+	background-repeat: none;
+}
